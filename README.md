@@ -30,7 +30,12 @@ This project is focused on improving customrs satisfaction, its describe how con
   - To get the total no. of complaints
     DAX Expression
     ```
-    Total complaints = count('complaint
+    Total complaints = count('complaintstable', complaint_ID)
+    ```
+    ## Visualisation
+    
+  <img width="863" height="489" alt="Screenshot 2025-11-04 105202" src="https://github.com/user-attachments/assets/34760052-8eb5-482a-9252-ac709cc84313" />
+
     
     
     
