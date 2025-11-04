@@ -28,5 +28,9 @@ This project is focused on improving customrs satisfaction, its describe how con
   ## Analyze
   These are the following DAX (Measures)
   - To get the total no. of complaints
-    ``` DAX
+    DAX Expression
+    ```
+    Total complaints = count('complaint
+    
+    
     
